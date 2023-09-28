@@ -1,5 +1,7 @@
 # Provider keycloak
 
+**IMPORTANT: This repo is no longer maintained and has been moved to https://github.com/crossplane-contrib/provider-keycloak**
+
 `provider-keycloak` is a [Crossplane](https://crossplane.io/) provider that
 is built using [Upjet](https://github.com/upbound/upjet) code
 generation tools and exposes XRM-conformant managed resources for the
